@@ -1,0 +1,347 @@
+{
+  "players": [
+    { "id": 1, "name": "Raul" },
+    { "id": 2, "name": "Marcos" },
+    { "id": 3, "name": "Ana" },
+    { "id": 4, "name": "Raquel" },
+    { "id": 5, "name": "Olga" },
+    { "id": 6, "name": "Gabriel" },
+    { "id": 7, "name": "Xavier" },
+    { "id": 8, "name": "Teresa" },
+    { "id": 9, "name": "Melanie" },
+    { "id": 10, "name": "Joss" }
+  ],
+
+  "games": [
+    {
+      "id": 1,
+      "date": "2026-02-10",
+      "results": [
+        { "playerId": 3, "tp": 1, "sp": -48 },
+        { "playerId": 4, "tp": 0, "sp": -88 },
+        { "playerId": 2, "tp": 2, "sp": 28 },
+        { "playerId": 1, "tp": 4, "sp": 108 }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2026-02-10",
+      "results": [
+        { "playerId": 2, "tp": 1, "sp": -146 },
+        { "playerId": 4, "tp": 0, "sp": -180 },
+        { "playerId": 3, "tp": 2, "sp": 1 },
+        { "playerId": 1, "tp": 4, "sp": 325 }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2026-02-17",
+      "results": [
+        { "playerId": 1, "tp": 4, "sp": 468 },
+        { "playerId": 3, "tp": 0, "sp": -263 },
+        { "playerId": 2, "tp": 1, "sp": -169 },
+        { "playerId": 4, "tp": 2, "sp": -36 }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2026-03-07",
+      "results": [
+        { "playerId": 1, "tp": 0, "sp": -158 },
+        { "playerId": 4, "tp": 4, "sp": 194 },
+        { "playerId": 2, "tp": 1, "sp": -20 },
+        { "playerId": 3, "tp": 2, "sp": -16 }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2026-03-14",
+      "results": [
+        { "playerId": 4, "tp": 0, "sp": -227 },
+        { "playerId": 2, "tp": 1, "sp": 20 },
+        { "playerId": 1, "tp": 4, "sp": 159 },
+        { "playerId": 3, "tp": 2, "sp": 48 }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2026-03-14",
+      "results": [
+        { "playerId": 2, "tp": 4, "sp": 311 },
+        { "playerId": 4, "tp": 2, "sp": -39 },
+        { "playerId": 3, "tp": 1, "sp": -74 },
+        { "playerId": 1, "tp": 0, "sp": -198 }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2026-03-14",
+      "results": [
+        { "playerId": 2, "tp": 0, "sp": -80 },
+        { "playerId": 1, "tp": 1, "sp": -59 },
+        { "playerId": 3, "tp": 2, "sp": 60 },
+        { "playerId": 4, "tp": 4, "sp": 79 }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2026-03-28",
+      "results": [
+        { "playerId": 2, "tp": 0, "sp": -9 },
+        { "playerId": 3, "tp": 2, "sp": 3 },
+        { "playerId": 1, "tp": 1, "sp": -3 },
+        { "playerId": 4, "tp": 4, "sp": 9 }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2026-03-28",
+      "results": [
+        { "playerId": 7, "tp": 0, "sp": -204 },
+        { "playerId": 1, "tp": 1, "sp": -78 },
+        { "playerId": 3, "tp": 2, "sp": 131 },
+        { "playerId": 4, "tp": 4, "sp": 151 }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2026-04-05",
+      "results": [
+        { "playerId": 3, "tp": 0, "sp": -91 },
+        { "playerId": 1, "tp": 1, "sp": -35 },
+        { "playerId": 2, "tp": 4, "sp": 125 },
+        { "playerId": 4, "tp": 2, "sp": 1 }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2026-04-05",
+      "results": [
+        { "playerId": 2, "tp": 2, "sp": 8 },
+        { "playerId": 1, "tp": 4, "sp": 338 },
+        { "playerId": 4, "tp": 1, "sp": -93 },
+        { "playerId": 3, "tp": 0, "sp": -253 }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2026-04-06",
+      "results": [
+        { "playerId": 8, "tp": 0, "sp": -291 },
+        { "playerId": 9, "tp": 4, "sp": 350 },
+        { "playerId": 5, "tp": 1, "sp": -49 },
+        { "playerId": 10, "tp": 2, "sp": -10 }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "2026-04-10",
+      "results": [
+        { "playerId": 2, "tp": 4, "sp": 207 },
+        { "playerId": 6, "tp": 0, "sp": -118 },
+        { "playerId": 4, "tp": 1, "sp": -46 },
+        { "playerId": 3, "tp": 2, "sp": -43 }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2026-04-11",
+      "results": [
+        { "playerId": 8, "tp": 0, "sp": -45 },
+        { "playerId": 6, "tp": 4, "sp": 43 },
+        { "playerId": 7, "tp": 1, "sp": -7 },
+        { "playerId": 5, "tp": 2, "sp": 9 }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2026-04-17",
+      "results": [
+        { "playerId": 10, "tp": 1, "sp": -135 },
+        { "playerId": 2, "tp": 4, "sp": 332 },
+        { "playerId": 7, "tp": 2, "sp": 13 },
+        { "playerId": 9, "tp": 0, "sp": -210 }
+      ]
+    },
+    {
+      "id": 16,
+      "date": "2026-05-10",
+      "results": [
+        { "playerId": 2, "tp": 1, "sp": -146 },
+        { "playerId": 4, "tp": 0, "sp": -180 },
+        { "playerId": 3, "tp": 2, "sp": 1 },
+        { "playerId": 1, "tp": 4, "sp": 325 }
+      ]
+    },
+    {
+      "id": 17,
+      "date": "2026-05-17",
+      "results": [
+        { "playerId": 1, "tp": 4, "sp": 468 },
+        { "playerId": 3, "tp": 0, "sp": -263 },
+        { "playerId": 2, "tp": 1, "sp": -169 },
+        { "playerId": 4, "tp": 2, "sp": -36 }
+      ]
+    },
+    {
+      "id": 18,
+      "date": "2026-06-07",
+      "results": [
+        { "playerId": 1, "tp": 0, "sp": -158 },
+        { "playerId": 4, "tp": 4, "sp": 194 },
+        { "playerId": 2, "tp": 1, "sp": -20 },
+        { "playerId": 3, "tp": 2, "sp": -16 }
+      ]
+    },
+    {
+      "id": 19,
+      "date": "2026-06-14",
+      "results": [
+        { "playerId": 4, "tp": 0, "sp": -227 },
+        { "playerId": 2, "tp": 1, "sp": 20 },
+        { "playerId": 1, "tp": 4, "sp": 159 },
+        { "playerId": 3, "tp": 2, "sp": 48 }
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2026-06-14",
+      "results": [
+        { "playerId": 2, "tp": 4, "sp": 311 },
+        { "playerId": 4, "tp": 2, "sp": -39 },
+        { "playerId": 3, "tp": 1, "sp": -74 },
+        { "playerId": 1, "tp": 0, "sp": -198 }
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2026-06-14",
+      "results": [
+        { "playerId": 2, "tp": 0, "sp": -80 },
+        { "playerId": 1, "tp": 1, "sp": -59 },
+        { "playerId": 3, "tp": 2, "sp": 60 },
+        { "playerId": 4, "tp": 4, "sp": 79 }
+      ]
+    },
+    {
+      "id": 22,
+      "date": "2026-06-28",
+      "results": [
+        { "playerId": 2, "tp": 0, "sp": -9 },
+        { "playerId": 3, "tp": 2, "sp": 3 },
+        { "playerId": 1, "tp": 1, "sp": -3 },
+        { "playerId": 4, "tp": 4, "sp": 9 }
+      ]
+    },
+    {
+      "id": 23,
+      "date": "2026-06-28",
+      "results": [
+        { "playerId": 7, "tp": 0, "sp": -204 },
+        { "playerId": 1, "tp": 1, "sp": -78 },
+        { "playerId": 3, "tp": 2, "sp": 131 },
+        { "playerId": 4, "tp": 4, "sp": 151 }
+      ]
+    },
+    {
+      "id": 24,
+      "date": "2026-07-05",
+      "results": [
+        { "playerId": 3, "tp": 0, "sp": -91 },
+        { "playerId": 1, "tp": 1, "sp": -35 },
+        { "playerId": 2, "tp": 4, "sp": 125 },
+        { "playerId": 4, "tp": 2, "sp": 1 }
+      ]
+    },
+    {
+      "id": 25,
+      "date": "2026-07-05",
+      "results": [
+        { "playerId": 2, "tp": 2, "sp": 8 },
+        { "playerId": 1, "tp": 4, "sp": 338 },
+        { "playerId": 4, "tp": 1, "sp": -93 },
+        { "playerId": 3, "tp": 0, "sp": -253 }
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2026-07-06",
+      "results": [
+        { "playerId": 8, "tp": 0, "sp": -291 },
+        { "playerId": 9, "tp": 4, "sp": 350 },
+        { "playerId": 5, "tp": 1, "sp": -49 },
+        { "playerId": 10, "tp": 2, "sp": -10 }
+      ]
+    },
+    {
+      "id": 27,
+      "date": "2026-07-10",
+      "results": [
+        { "playerId": 2, "tp": 4, "sp": 207 },
+        { "playerId": 6, "tp": 0, "sp": -118 },
+        { "playerId": 4, "tp": 1, "sp": -46 },
+        { "playerId": 3, "tp": 2, "sp": -43 }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2026-07-11",
+      "results": [
+        { "playerId": 8, "tp": 0, "sp": -45 },
+        { "playerId": 6, "tp": 4, "sp": 43 },
+        { "playerId": 7, "tp": 1, "sp": -7 },
+        { "playerId": 5, "tp": 2, "sp": 9 }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2026-07-17",
+      "results": [
+        { "playerId": 10, "tp": 1, "sp": -135 },
+        { "playerId": 2, "tp": 4, "sp": 332 },
+        { "playerId": 7, "tp": 2, "sp": 13 },
+        { "playerId": 9, "tp": 0, "sp": -210 }
+      ]
+    },
+    {
+      "id": 30,
+      "date": "2026-07-18",
+      "results": [
+        { "playerId": 4, "tp": 4, "sp": 92 },
+        { "playerId": 2, "tp": 2, "sp": 32 },
+        { "playerId": 3, "tp": 0, "sp": -135 },
+        { "playerId": 1, "tp": 1, "sp": 11 }
+      ]
+    },
+    {
+      "id": 31,
+      "date": "2026-07-24",
+      "results": [
+        { "playerId": 1, "tp": 2, "sp": 61 },
+        { "playerId": 9, "tp": 4, "sp": 303 },
+        { "playerId": 2, "tp": 1, "sp": -142 },
+        { "playerId": 10, "tp": 0, "sp": -222 }
+      ]
+    },
+    {
+      "id": 32,
+      "date": "2026-07-31",
+      "results": [
+        { "playerId": 4, "tp": 2, "sp": 2 },
+        { "playerId": 10, "tp": 0, "sp": -122 },
+        { "playerId": 9, "tp": 4, "sp": 130 },
+        { "playerId": 2, "tp": 1, "sp": -10 }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2026-08-02",
+      "results": [
+        { "playerId": 3, "tp": 4, "sp": 109 },
+        { "playerId": 2, "tp": 1, "sp": -73 },
+        { "playerId": 1, "tp": 2, "sp": 70 },
+        { "playerId": 4, "tp": 0, "sp": -106 }
+      ]
+    }
+  ]
+}

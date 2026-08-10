@@ -1,0 +1,41 @@
+// Colores personalizados
+$primary: #4F6D8C;
+$secondary: #F2A65A;
+$dark: #31485F;
+$light: #F8F9FA;
+
+// Importar Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/img/fondo fichas.png'); /* Cambia esto por la ruta de tu imagen */
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  
+  /* Controla el nivel de transparencia (0.0 es invisible, 1.0 es opaco) */
+  opacity: 0.7; 
+  
+  /* Envía el fondo detrás de todo el contenido real del body */
+  z-index: -1; 
+}
+
+main {
+  flex: 1;
+}
+
