@@ -1,76 +1,70 @@
 {
   "players": [
-    { "id": 1, "name": "Raul" },
-    { "id": 2, "name": "Edgar" },
-    { "id": 3, "name": "Ana" },
-    { "id": 4, "name": "Raquel" },
-    { "id": 5, "name": "Nikolay" },
-    { "id": 6, "name": "Gabriel" },
-    { "id": 7, "name": "Sergio" },
-    { "id": 8, "name": "Cecilia" },
-    { "id": 9, "name": "Erik" },
-    { "id": 10, "name": "Juan Carlos" }
+    { "id": 1, "name": "Edgar" },
+    { "id": 2, "name": "Nikolay" },
+    { "id": 3, "name": "Sergio" },
+    { "id": 4, "name": "Cecilia" }
   ],
 
   "games": [
     {
       "id": 1,
-      "date": "2026-02-10",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 3, "tp": 0, "sp": -25000 },
-        { "playerId": 4, "tp": 1, "sp": -1500 },
-        { "playerId": 2, "tp": 4, "sp": 15000},
-        { "playerId": 1, "tp": 2, "sp": 11500 }
+        { "playerId": 4, "tp": 2, "sp": 1200 },
+        { "playerId": 1, "tp": 4, "sp": 40700 },
+        { "playerId": 2, "tp": 1, "sp": -10000 },
+        { "playerId": 3, "tp": 0, "sp": -31900 }
       ]
     },
     {
       "id": 2,
-      "date": "2026-02-23",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 6, "tp": 0, "sp": -15000 },
-        { "playerId": 5, "tp": 1, "sp": -1500 },
-        { "playerId": 7, "tp": 2, "sp": 5000},
-        { "playerId": 1, "tp": 4, "sp": 11500 }
+        { "playerId": 4, "tp": 0, "sp": -27900 },
+        { "playerId": 1, "tp": 2, "sp": 4900 },
+        { "playerId": 2, "tp": 4, "sp": 34900 },
+        { "playerId": 3, "tp": 1, "sp": -11900 }
       ]
     },
     {
       "id": 3,
-      "date": "2026-04-10",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 2, "tp": 4, "sp": 22700},
-        { "playerId": 6, "tp": 2, "sp": 8200 },
-        { "playerId": 8, "tp": 1, "sp": -5100},
-        { "playerId": 7, "tp": 0, "sp": -25800 }
+        { "playerId": 4, "tp": 0, "sp": -26800 },
+        { "playerId": 1, "tp": 1, "sp": -15500 },
+        { "playerId": 2, "tp": 4, "sp": 32000 },
+        { "playerId": 3, "tp": 2, "sp": 10300 }
       ]
     },
     {
       "id": 4,
-      "date": "2026-04-25",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 7, "tp": 1, "sp": -12200},
-        { "playerId": 2, "tp": 0, "sp": -45000 },
-        { "playerId": 6, "tp": 2, "sp": 2400},
-        { "playerId": 8, "tp": 4, "sp": 54800 }
+        { "playerId": 4, "tp": 4, "sp": 35800 },
+        { "playerId": 1, "tp": 0, "sp": -34700 },
+        { "playerId": 2, "tp": 2, "sp": 6900 },
+        { "playerId": 3, "tp": 1, "sp": -28000 }
       ]
     },
     {
       "id": 5,
-      "date": "2026-07-25",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 2, "tp": 4, "sp": 36800},
-        { "playerId": 9, "tp": 2, "sp": 6200 },
-        { "playerId": 10, "tp": 1, "sp": -13800},
-        { "playerId": 8, "tp": 0, "sp": -29200 }
+        { "playerId": 4, "tp": 4, "sp": 40600 },
+        { "playerId": 1, "tp": 2, "sp": 10700 },
+        { "playerId": 2, "tp": 1, "sp": -10600 },
+        { "playerId": 3, "tp": 0, "sp": -40700 }
       ]
     },
     {
       "id": 6,
-      "date": "2026-07-31",
+      "date": "2026-08-22",
       "results": [
-        { "playerId": 2, "tp": 4, "sp": 23000},
-        { "playerId": 10, "tp": 2, "sp": 12500 },
-        { "playerId": 6, "tp": 1, "sp": 4800},
-        { "playerId": 8, "tp": 0, "sp": -30300 }
+        { "playerId": 4, "tp": 0, "sp": -8200 },
+        { "playerId": 1, "tp": 1, "sp": 5500 },
+        { "playerId": 2, "tp": 4, "sp": 31500 },
+        { "playerId": 3, "tp": 2, "sp": -1200 }
       ]
     }
   ]
