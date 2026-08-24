@@ -44,7 +44,7 @@
         { "playerId": 4, "tp": 4, "sp": 35800 },
         { "playerId": 1, "tp": 0, "sp": -34700 },
         { "playerId": 2, "tp": 2, "sp": 6900 },
-        { "playerId": 3, "tp": 1, "sp": -28000 }
+        { "playerId": 3, "tp": 1, "sp": -8000 }
       ]
     },
     {
@@ -61,10 +61,10 @@
       "id": 6,
       "date": "2026-08-22",
       "results": [
-        { "playerId": 4, "tp": 0, "sp": -8200 },
-        { "playerId": 1, "tp": 1, "sp": 5500 },
+        { "playerId": 4, "tp": 1, "sp": -8200 },
+        { "playerId": 1, "tp": 2, "sp": 5500 },
         { "playerId": 2, "tp": 4, "sp": 31500 },
-        { "playerId": 3, "tp": 2, "sp": -1200 }
+        { "playerId": 3, "tp": 0, "sp": -28800 }
       ]
     }
   ]
