@@ -15,16 +15,16 @@ export async function Games() {
 
       <div class="accordion" id="gamesAccordion">
 
-        ${data.games.map((game, index) => `
+        ${data.games.map((game) => `
 
           <div class="accordion-item mb-0 border border-dark">
 
             <h2 class="accordion-header" id="heading-${game.id}">
-              <button class="accordion-button ${index !== 0 ? 'collapsed' : ''}" 
+              <button class="accordion-button collapsed" 
                       type="button"
                       data-bs-toggle="collapse"
                       data-bs-target="#collapse-${game.id}"
-                      aria-expanded="${index === 0 ? 'true' : 'false'}"
+                      aria-expanded="false"
                       aria-controls="collapse-${game.id}">
                 
                 🀄 Partida ${game.id} - ${game.date}
@@ -32,7 +32,7 @@ export async function Games() {
             </h2>
 
             <div id="collapse-${game.id}" 
-                 class="accordion-collapse collapse ${index === 0 ? 'show' : ''}"
+                 class="accordion-collapse collapse"
                  data-bs-parent="#gamesAccordion">
 
               <div class="accordion-body">
