@@ -10,7 +10,8 @@
     { "id": 8, "name": "Teresa" },
     { "id": 9, "name": "Melanie" },
     { "id": 10, "name": "Joost" },
-    { "id": 11, "name": "Reinaldo" }
+    { "id": 11, "name": "Reinaldo" },
+    { "id": 12, "name": "Xavier" }
   ],
 
   "games": [
@@ -102,6 +103,16 @@
         { "playerId": 11, "tp": 1, "sp": -63 },
         { "playerId": 8, "tp": 2, "sp": 45 },
         { "playerId": 6, "tp": 4, "sp": 86 }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2026-09-18",
+      "results": [
+        { "playerId": 12, "tp": 1, "sp": -60 },
+        { "playerId": 1, "tp": 4, "sp": 210 },
+        { "playerId": 10, "tp": 0, "sp": -148 },
+        { "playerId": 9, "tp": 2, "sp": -2 }
       ]
     }
   ]
