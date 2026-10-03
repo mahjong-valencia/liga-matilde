@@ -136,6 +136,16 @@
         { "playerId": 6, "tp": 4, "sp": 56 },
         { "playerId": 1, "tp": 2, "sp": 19 }
       ]
+    },
+    {
+      "id": 13,
+      "date": "2026-10-02",
+      "results": [
+        { "playerId": 13, "tp": 1, "sp": -54 },
+        { "playerId": 1, "tp": 4, "sp": 204 },
+        { "playerId": 9, "tp": 2, "sp": 82 },
+        { "playerId": 10, "tp": 0, "sp": -232 }
+      ]
     }
 
   ]
