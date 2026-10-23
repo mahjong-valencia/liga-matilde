@@ -146,6 +146,26 @@
         { "playerId": 9, "tp": 2, "sp": 82 },
         { "playerId": 10, "tp": 0, "sp": -232 }
       ]
+    },
+    {
+      "id": 14,
+      "date": "2026-10-23",
+      "results": [
+        { "playerId": 11, "tp": 1, "sp": -13 },
+        { "playerId": 8, "tp": 4, "sp": 41 },
+        { "playerId": 5, "tp": 2, "sp": 27 },
+        { "playerId": 12, "tp": 0, "sp": -55 }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2026-10-23",
+      "results": [
+        { "playerId": 4, "tp": 4, "sp": 97 },
+        { "playerId": 9, "tp": 2, "sp": 67 },
+        { "playerId": 7, "tp": 1, "sp": -52 },
+        { "playerId": 14, "tp": 0, "sp": -112 }
+      ]
     }
 
   ]
